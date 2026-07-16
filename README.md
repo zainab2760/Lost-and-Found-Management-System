@@ -8,4 +8,4 @@ M.S.F.ZAINAB :-GUI Design and Project Report
 
 
 
-M.H.F.HASNA:- Clear Funcation & Presentation  slide
+M.H.F.HASNA:- Clear Function & Presentation  slide
