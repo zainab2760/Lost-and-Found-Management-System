@@ -6,7 +6,7 @@ TEAM CONTRIBUTIONS
 M.S.F.ZAINAB :-GUI Design and Project Report
 M.A.F Azra:- Add and View Item Functions.
 G.M.K.AKARSHANI :-Search Function and Linear Search Algorithm
-
+S.R.S.Kaushalya Shastri :- Update and delete function 
 
 
 
